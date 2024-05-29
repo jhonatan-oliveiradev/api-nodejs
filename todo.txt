@@ -1,0 +1,7 @@
+[] Entender conceitos de Back End e Front End
+[] Criar nossa Primeira API
+[] Conectar com um banco de dados
+[] Query Params / Route Params / Body Params
+[] Conectar com um banco de dados
+[] Métodos HTTP
+[] Status HTTP
